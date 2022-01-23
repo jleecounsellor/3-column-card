@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/jleegunn/3-column-card)
+- Live Site URL: (https://jleegunn.github.io/3-column-card/)
 
 ## My process
 
