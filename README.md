@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/jleegunn/3-column-card)
-- [Live Site URL](https://jleegunn.github.io/3-column-card/)
+- [Solution URL](https://github.com/jleecounsellor/3-column-card)
+- [Live Site URL](https://jleecounsellor.github.io/3-column-card/)
 
 ## My process
 
@@ -77,4 +77,4 @@ I learned more about flexbox and how to manipulate the design, along with gettin
 
 ## Author
 
-- Website - [Jamie Counsellor](TBD)
+- Website - [Jamie Counsellor](https://counsellorj.herokuapp.com/)
